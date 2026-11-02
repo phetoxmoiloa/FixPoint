@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fixpoint-wede5020.netlify.app/sitemap.xml
